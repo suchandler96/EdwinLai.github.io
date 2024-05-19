@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications 
+
+=== Conference
+- LCM: LLM-focused Hybrid SPM-cache Architecture with Cache Management for Multi-Core AI Accelerators \n
+*C. Lai*, Z. Zhou, A. Poptani and W. Zhang \n
+2024 International Conference on Supercomputing (ICS '24). \[Accepted\]
+
+=== Journal
+- gem5-NVDLA: A Simulation Framework for Compiling, Scheduling and Architecture Evaluation on AI System-on-Chips \n
+*C. Lai* and W. Zhang \n
+2024 ACM Transactions on Design Automation of Electronic Systems (TODAES)
